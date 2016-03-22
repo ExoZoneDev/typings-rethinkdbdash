@@ -1,0 +1,7 @@
+{
+  "name": "rethinkdbdash",
+  "main": "lib/index.d.ts",
+  "ambientDependencies": {
+    "node": "registry:dt/node#4.0.0+20160319033040"
+  }
+}
