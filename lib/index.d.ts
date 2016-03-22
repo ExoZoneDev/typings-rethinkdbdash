@@ -35,7 +35,7 @@ export interface Term {
   map(): Term;
   withFields(): Term;
   concatMap(transformation: any): Term;
-  orderBy(): Term;
+  orderBy(row: Term): Term;
   desc(field: string): Term;
   asc(field: string): Term;
   skip(value: any): Term;
