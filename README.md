@@ -2,4 +2,4 @@
 Typings for the rethinkdbdash npm package
 
 ## Install
-`typings install --save github:ExoZoneDev/typings-rethinkdbdash#6bbd0fa51c289a41b2eee5d8dc29c1a5db85a96d`
+`typings install --save github:ExoZoneDev/typings-rethinkdbdash#e3958a9c6b385382e71153f673e04a5edde3d754`
