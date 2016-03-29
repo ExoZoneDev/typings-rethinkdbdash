@@ -1,4 +1,3 @@
-export function table(name: string): Term;
 export interface Term {
   run(connection?: any, options?: any, callback?: (err, res) => void);
   table(name: string, options?: any): Term;
